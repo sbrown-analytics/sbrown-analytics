@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Shaon Brown | Financial Data Analyst
 
-<!--
-**sbrown-analytics/sbrown-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MBA in Business Finance | 📊 Certified FP&A & Data Analytics | U.S. Veteran | 📍Los Angeles, CA
 
-Here are some ideas to get you started:
+I'm a financial data analyst with a passion for solving real-world business problems through dynamic modeling, automation, and storytelling dashboards. I specialize in:
+- 📈 Financial forecasting & 3-statement modeling
+- ⚙️ Excel automation (VBA, Macros, Google Sheets Scripts)
+- 🐍 Python for financial analysis (Pandas, Seaborn)
+- 📊 Tableau dashboards & KPI storytelling
+- 📁 Real estate & small business financial modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m continuously building upon my toolkit by applying new techniques to real-world-inspired projects — blending technical precision with business practicality.
+
+## 🔧 Featured Project
+- **Smoothie Shop 3-Statement Financial Model**: Built from scratch in Excel with dynamic forecasting and KPI dashboard
+
+Let’s connect: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaonbrownmba/)
