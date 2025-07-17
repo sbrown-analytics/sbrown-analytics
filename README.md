@@ -9,7 +9,7 @@ I'm a financial data analyst with a passion for solving real-world business prob
 - 📊 Tableau dashboards & KPI storytelling
 - 📁 Real estate & small business financial modeling
 
-I’m continuously building upon my toolkit by applying new techniques to real-world-inspired projects — blending technical precision with business practicality.
+I’m continuously building upon my toolkit by applying new techniques to real world inspired projects, blending technical precision with business practicality.
 
 ## 🔧 Featured Projects
 
